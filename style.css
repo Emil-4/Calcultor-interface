@@ -1,0 +1,36 @@
+body{
+    box-sizing: border-box;
+    border: 2px solid rgb(75, 70, 80);
+    display: flex;
+    height: 80vh;
+    width: 80vh;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 500px;
+    margin-top: 100px;
+    box-shadow: 2px 2px 1px rgb(12, 38, 37);
+    
+}
+input{
+    text-align: center;
+    width: 400px;
+    height: 50px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+
+footer button{
+    height: 40px;
+    width: 100px;
+    margin-top: 50px;
+    border-radius: 10px;
+    
+    
+    
+}
+button:hover{
+    color: aqua;
+    background-color: rgb(14, 14, 15);
+}
